@@ -12,3 +12,19 @@
     text-align: center;
     padding: 40px;
 }
+*{
+    margin: 0;
+    padding: 0;
+}
+.vendas{
+    text-align: center;
+    margin: auto;
+    background-color: #f7ce02;
+}
+.vendas-div{
+    display: inline-block;
+    width: 30%;
+    margin: 10px;
+    background-color: aquamarine;
+    padding-bottom: 20px;
+}
