@@ -1,75 +1,14 @@
 .cabecalho{background-color: rgb(255, 0, 0);
             color: #f7e602;
         display: flex;
-         justify-content: space-around;}
+         justify-content: space-around;
+    text-align: center;
+}
 
 .imagem-logo{width: 80px;}
 
 .sobre{background-color: #f7e702;
-        color: rgb(255, 0, 0);}
-
-        * {
-    margin: 0;
-    padding: 0;
-}
-
-body {
-    background-color: #111;
-    color: white;
-    font-family: Arial, sans-serif;
-}
-
-.cabecalho {
-    background-color: black;
-    text-align: center;
-    padding: 20px;
-}
-
-.imagem-logo {
-    width: 70px;
-}
-
-.cabecalho h1 {
-    color: red;
-}
-
-.sobre {
+        color: rgb(255, 0, 0);
     text-align: center;
     padding: 40px;
-}
-
-.sobre-titulo,
-.vendas-produto {
-    color: red;
-    margin-bottom: 20px;
-}
-
-.texto {
-    max-width: 800px;
-    margin: auto;
-    line-height: 1.6;
-}
-
-.vendas {
-    text-align: center;
-    padding: 40px;
-    background-color: #222;
-}
-
-.vendas-div {
-    display: inline-block;
-    width: 30%;
-    margin: 10px;
-    background-color: #111;
-    padding-bottom: 20px;
-}
-
-.vendas-imagem {
-    width: 100%;
-    height: 200px;
-    object-fit: cover;
-}
-
-.vendas-titulo {
-    margin-top: 15px;
 }
